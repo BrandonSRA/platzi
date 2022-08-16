@@ -1,0 +1,19 @@
+p {
+  color: blue;
+  font-size: 40px;
+}
+
+/* class */
+
+.paragraph {
+  color: green;
+}
+
+/* id */
+
+#text {
+  color: aqua;
+  font-size: 24px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
