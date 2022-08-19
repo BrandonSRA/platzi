@@ -1,0 +1,21 @@
+/* ---hermano adyacente o cercano---
+
+h2 + p {
+    color: red;
+} */
+
+/* ---hermano general---
+
+h2 ~ p{
+    color: red;
+} */
+
+/* ---hijo---
+ div > p {
+    color: brown;
+} */
+
+/* ---descendent---
+div p{
+    color: red;
+} */
